@@ -25,3 +25,8 @@ For development and testing, words in Portuguese-BR were used.
 * Word with misspelled letter
 * Word with swapped letters
 * Word with errors in 2 levels
+
+> ## Files
+
+* artigos.txt -> Training dataset
+* palavras.txt -> Testing dataset, each line following the format: *(\<correct word\> \<mispelled word\>)*
